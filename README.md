@@ -79,3 +79,11 @@ Pz: this electrode is located on the midline of the scalp, over the parietal lob
 We can clearly see that all of these channels play a crucial role in attention which is the main focus of the wanted BCI information. 
 
 # Analysis
+
+## Basic Plotting - Data Overview -
+
+![over high](https://user-images.githubusercontent.com/117298723/233799410-382a2d73-8fd9-4aa1-b64b-105901a86865.png)
+
+![over_zoomed](https://user-images.githubusercontent.com/117298723/233799421-5dd7d18d-ed4f-439d-b887-8e8de74a9119.png)
+![channels high](https://user-images.githubusercontent.com/117298723/233799478-4e7610c7-fdfa-4cf5-bb09-463de1f66324.png)
+![channels high zommed](https://user-images.githubusercontent.com/117298723/233799483-f032fa1f-88c3-4d81-a89c-7bf1f89f448e.png)
