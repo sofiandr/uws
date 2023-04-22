@@ -1,5 +1,5 @@
 # uws
-Draft Rep on "Unresponsive Wakefulness Syndrome" UWS for the br41n.io competition, Sprin School 2023, April 2023
+Draft Rep on "Unresponsive Wakefulness Syndrome" UWS for the br41n.io Hackathon, Neurotechnology Spring School 2023, April 2023
 https://www.br41n.io/Spring-School-2023
 
 # Introduction
