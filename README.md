@@ -70,8 +70,12 @@ Cz: this electrode is located on the midline of the scalp, over the sensorimotor
 CP1, CP2, and CPz: these electrodes are located over the parietal lobe of the brain, which is involved in sensory processing and attention.
 
 Pz: this electrode is located on the midline of the scalp, over the parietal lobe. It is often used as a reference electrode and is involved in visual-spatial processing, attention, and working memory.
+
+
 ![eegch](https://user-images.githubusercontent.com/117298723/233794427-86db8c49-cb2d-4ccd-bb01-7680782daeb4.png)
 ![montage_mB](https://user-images.githubusercontent.com/117298723/233794475-d92a3050-4c10-4170-bd56-766100f6dc40.png)
 
+
+We can clearly see that all of these channels play a crucial role in attention which is the main focus of the wanted BCI information. 
 
 # Analysis
