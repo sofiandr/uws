@@ -81,9 +81,19 @@ We can clearly see that all of these channels play a crucial role in attention w
 # Analysis
 
 ## Basic Plotting - Data Overview -
+## Using basicPlotting.m file
+
+## Plots 2 figures:
+## Figure 1 : plots the Fz channel on time -you choose the low or high  accuracy dataset- and subplots the vibrations at the same time
+
 
 ![over high](https://user-images.githubusercontent.com/117298723/233799410-382a2d73-8fd9-4aa1-b64b-105901a86865.png)
 
+## Zoomed in 10 seconds
 ![over_zoomed](https://user-images.githubusercontent.com/117298723/233799421-5dd7d18d-ed4f-439d-b887-8e8de74a9119.png)
+
+## Figure 2: plots all the 8 channels of the low or high accuracy dataset.
 ![channels high](https://user-images.githubusercontent.com/117298723/233799478-4e7610c7-fdfa-4cf5-bb09-463de1f66324.png)
+
+## Zoomed in 10 seconds
 ![channels high zommed](https://user-images.githubusercontent.com/117298723/233799483-f032fa1f-88c3-4d81-a89c-7bf1f89f448e.png)
