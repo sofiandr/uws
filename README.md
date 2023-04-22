@@ -97,3 +97,9 @@ We can clearly see that all of these channels play a crucial role in attention w
 
 ## Zoomed in 10 seconds
 ![channels high zommed](https://user-images.githubusercontent.com/117298723/233799483-f032fa1f-88c3-4d81-a89c-7bf1f89f448e.png)
+
+
+# Further Analysis
+
+![vibr_Times](https://user-images.githubusercontent.com/117298723/233800247-6ae36b39-519f-4106-9d47-6ee92e795168.png)
+
