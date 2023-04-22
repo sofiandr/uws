@@ -4,20 +4,25 @@ https://www.br41n.io/Spring-School-2023
 
 # Introduction
 
-The unresponsive wakefulness syndrome (UWS), formerly known as the vegetative state, is one of the most dramatic outcomes of acquired brain injury.
-Patients with UWS open their eyes spontaneously but demonstrate only reflexive behavior; there are no signs of consciousness.
+The unresponsive wakefulness syndrome (UWS), formerly known as the vegetative state, is one of 
+the most dramatic outcomes of acquired brain injury.
+Patients with UWS open their eyes spontaneously but demonstrate only 
+reflexive behavior; there are no signs of consciousness.
+
 van Erp, W. S., Lavrijsen, J. C., & Koopmans, R. T. (2016). Als het bewustzijn niet meer terugkeert [The unresponsive wakefulness syndrome: Dutch perspectives]. Nederlands tijdschrift voor geneeskunde, 160, D108.
+
+
+People with complete locked-in syndrome have lost the ability to control
+any kind of movement. They can’t speak, move their hands, or even
+choose to blink or move their eyes, but the brain is working. Therefore,
+communicating with these patients can be very difficult.
 
 ![uws](https://user-images.githubusercontent.com/117298723/233794706-83d8b5dd-a5a7-4ad6-b6be-20836b2f017f.png)
 
 
 # Method Used
 
-People with complete locked-in syndrome have lost the ability to control
-any kind of movement. They can’t speak, move their hands, or even
-choose to blink or move their eyes, but the brain is working. Therefore,
-communicating with these patients can be very difficult. Many groups
-have developed brain–computer interface (BCI) systems that can provide
+Many groups have developed brain–computer interface (BCI) systems that can provide
 communication for people even if they cannot move. The BCI system can
 translate the user’s brain activity into signals for communication, such as
 answering YES or NO. Unfortunately, most of these systems do not work
