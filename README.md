@@ -51,10 +51,25 @@ https://www.researchgate.net/publication/325565417_How_Can_Completely_Locked-in_
 
 # Data Overview
 
+##       What we have been given
+
+We get eeg signals from 2 idividuals on high and low accuracy on the method recordings.
+The data contains also a mat file called target that indicates when the vibrations happened to the target hand (2) , other hand (1) and foot (-1).
 ![dataoverview](https://user-images.githubusercontent.com/117298723/233794515-2f612fea-c5f4-46cb-be39-8f1e847e426b.png)
 
 
+The 8 channels that were used are applied to the following brain regions: Fz,C3,C4,Cz,CP1,CP2,CPz, Pz
+These are electrode locations used in electroencephalography (EEG) measurements, which record the electrical activity of the brain.
 
+Fz: refers to the "frontal midline" electrode, located on the midline of the forehead, over the frontal lobe of the brain. This area is involved in higher-order cognitive processes such as decision-making, attention, and working memory.
+
+C3 and C4: these electrodes are located on the left and right sides of the scalp, respectively, over the sensorimotor cortex. This area is involved in motor control, sensation, and perception.
+
+Cz: this electrode is located on the midline of the scalp, over the sensorimotor cortex. It is often used as a reference electrode to compare activity at other electrode locations.
+
+CP1, CP2, and CPz: these electrodes are located over the parietal lobe of the brain, which is involved in sensory processing and attention.
+
+Pz: this electrode is located on the midline of the scalp, over the parietal lobe. It is often used as a reference electrode and is involved in visual-spatial processing, attention, and working memory.
 ![eegch](https://user-images.githubusercontent.com/117298723/233794427-86db8c49-cb2d-4ccd-bb01-7680782daeb4.png)
 ![montage_mB](https://user-images.githubusercontent.com/117298723/233794475-d92a3050-4c10-4170-bd56-766100f6dc40.png)
 
