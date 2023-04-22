@@ -53,7 +53,7 @@ https://www.researchgate.net/publication/325565417_How_Can_Completely_Locked-in_
 
 ##       What we have been given
 
-We get eeg signals from 2 idividuals on high and low accuracy on the method recordings.
+We got eeg signals from 2 idividuals on high and low accuracy on the method recordings.
 The data contains also a mat file called target that indicates when the vibrations happened to the target hand (2) , other hand (1) and foot (-1).
 ![dataoverview](https://user-images.githubusercontent.com/117298723/233794515-2f612fea-c5f4-46cb-be39-8f1e847e426b.png)
 
