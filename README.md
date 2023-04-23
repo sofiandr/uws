@@ -103,3 +103,5 @@ We can clearly see that all of these channels play a crucial role in attention w
 
 ![vibr_Times](https://user-images.githubusercontent.com/117298723/233800247-6ae36b39-519f-4106-9d47-6ee92e795168.png)
 
+## check scripts and presentation slides...
+
